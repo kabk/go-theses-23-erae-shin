@@ -308,4 +308,9 @@ font-style: normal;
       animation: none;
     }
     
+    #footnote {
+      color: black;
+      font-size: 2vw;
+      vertical-align: top;
+    }
 }
